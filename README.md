@@ -631,7 +631,7 @@ Projects using this api or smaller parts of it:
 
 - [Gogoanime Clone](https://github.com/shashankktiwariii/gogoanime-clone) - PHP clone of GogoAnime Website (No Video Ads) | Anime Website
 
-- [Anikatsu](https://github.com/shashankktiwariii/anikatsu) - https://github.com/shashankktiwariii/anikatsu (zoro.to clone)
+- [Anikatsu](https://github.com/shashankktiwariii/anikatsu) - Free Anime Streaming Website Made with PHP and Gogoanime API. No Video ads (zoro.to clone)
 > For other projects that are using this api or smaller parts of it, please reach out to me at my [discord rem#1723](https://discord.gg/775082234507427890) or join the [discord server](https://discord.gg/sP2k8vhjdb) or make a pull request to add it to the list.
 
 ## NEW API (v2) 🎉
