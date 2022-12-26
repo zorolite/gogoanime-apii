@@ -4,6 +4,7 @@ services:
     name: webdis
     env: docker
     repo: https://github.com/riimuru/gogoanime-api.git
+    plan: free
     branch: main
     rootDir: gogoanime-api
     healthCheckPath: /
