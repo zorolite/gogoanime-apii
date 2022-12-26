@@ -6,7 +6,6 @@ services:
     repo: https://github.com/riimuru/gogoanime-api.git
     plan: free
     branch: main
-    rootDir: /
     envVars:
       - key: PORT
         value: 3000
