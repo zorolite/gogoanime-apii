@@ -40,6 +40,7 @@
   - [Local](#local)
   - [Docker](#docker)
   - [Heroku](#heroku)
+  - [Render](#render)
 - [Routes](#routes)
   - [Get Recent Episodes](#get-recent-episodes)
   - [Get Popular Anime](#get-popular-anime)
@@ -99,6 +100,10 @@ Host your own instance of the api on heroku using the button below.
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/riimuru/gogoanime/tree/main)
 
+### Render
+Host your own instance of the api on render using the button below.
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/riimuru/gogoanime-api)
 
 ## Routes
 Below you'll find examples using [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) but you can use any other http library out there.
